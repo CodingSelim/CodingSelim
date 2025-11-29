@@ -1,16 +1,16 @@
-# Hi 👋, I'm Selim Akl
+# Hi 👋, I'm Selim
 
 ### A aspiring ML Engineer!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingSelim&label=Profile views&color=0e75b6&style=flat" alt="CodingSelim" /> </p>
 
-- 🔭 I'm currently working on **ML predictions on Kaggle Datasets**
+- I'm currently working on **ML predictions on Kaggle Datasets**
 
-- 🌱 I'm currently learning **PyTorch, Keras, and ML mathematics & algorithms.**
+- I'm currently learning **PyTorch, Keras, and ML mathematics & algorithms.**
 
-- 📫 How to reach me **selimakl.inbox@gmail.com**
+-  How to reach me: **selimakl.inbox@gmail.com**
 
-- ⚡ Fun fact **I think my curiosity leads me to cool places.**
+- **I think my curiosity leads me to cool places.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
