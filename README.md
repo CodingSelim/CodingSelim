@@ -1,15 +1,14 @@
-# Selim
+# Selim Akl
 
-**Aspiring ML Engineer** 
+**Aspiring ML Engineer** · IB Student · Doha, Qatar
 
 ---
 
-I'm a Grade 12 student passionate about machine learning, systems programming, and building things that actually work. Currently focused on improving my ML knowledge and delve deeper into the realm of DNNs.
+I'm a Grade 12 student passionate about machine learning, systems programming, and building things that actually work. Currently focused on ML and DL (specifically NLP) fundamentals, and working toward a career in ML engineering.
 
 > *"Curiosity compounds."*
 
 ---
-
 ## 🤝 Connect
 
 <p align="left">
@@ -39,21 +38,17 @@ I'm a Grade 12 student passionate about machine learning, systems programming, a
 ### Machine Learning & Data Science
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40" title="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" title="TensorFlow" />
   <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40" title="scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40" title="Keras" />
   <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40" title="Hugging Face" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" title="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" title="Matplotlib" />
-  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40" title="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" title="Jupyter" />
 </p>
 
 ### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" title="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" title="C++" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" title="TypeScript" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" title="Bash" />
@@ -64,16 +59,12 @@ I'm a Grade 12 student passionate about machine learning, systems programming, a
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" title="Docker" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" title="Linux" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" title="Git" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" title="MySQL" />
 </p>
 
 ### Web Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" title="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40" title="Flask" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40" title="Django" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" title="React" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" title="Node.js" />
 </p>
