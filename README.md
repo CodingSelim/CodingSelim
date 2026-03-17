@@ -1,6 +1,6 @@
-# Selim Akl
+# Selim
 
-**Aspiring ML Engineer** · IB Student · Doha, Qatar
+**Aspiring ML Engineer** 
 
 ---
 
