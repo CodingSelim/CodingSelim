@@ -1,12 +1,10 @@
 # Selim Akl
 
-**Aspiring ML Engineer** · IB Student · Doha, Qatar
+**Aspiring ML Engineer** · Doha, Qatar
 
 ---
 
-I'm a Grade 12 student passionate about machine learning, systems programming, and building things that actually work. Currently focused on ML and DL (specifically NLP) fundamentals, and working toward a career in ML engineering.
-
-> *"Curiosity compounds."*
+I'm a current undergraduate student passionate about machine learning, systems programming, and building things that actually work. Currently focused on ML and DL (specifically NLP) fundamentals, and working toward a career in ML engineering.
 
 ---
 ## 🤝 Connect
