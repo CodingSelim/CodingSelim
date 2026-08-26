@@ -1,6 +1,6 @@
 # Selim Akl
 
-**Aspiring ML Engineer** · Doha, Qatar
+**Aspiring ML Engineer** · Ankara, Türkiye
 
 ---
 
